@@ -1,0 +1,11 @@
+C:\Users\ameer\Desktop\DependencyListGenerator\bin\Release\DependencyListGenerator.exe.config
+C:\Users\ameer\Desktop\DependencyListGenerator\bin\Release\DependencyListGenerator.exe
+C:\Users\ameer\Desktop\DependencyListGenerator\bin\Release\QuickGraph.Data.dll
+C:\Users\ameer\Desktop\DependencyListGenerator\bin\Release\QuickGraph.dll
+C:\Users\ameer\Desktop\DependencyListGenerator\bin\Release\QuickGraph.Graphviz.dll
+C:\Users\ameer\Desktop\DependencyListGenerator\bin\Release\QuickGraph.Serialization.dll
+C:\Users\ameer\Desktop\DependencyListGenerator\bin\Release\QuickGraph.xml
+C:\Users\ameer\Desktop\DependencyListGenerator\bin\Release\QuickGraph.Data.xml
+C:\Users\ameer\Desktop\DependencyListGenerator\bin\Release\QuickGraph.Graphviz.xml
+C:\Users\ameer\Desktop\DependencyListGenerator\bin\Release\QuickGraph.Serialization.xml
+C:\Users\ameer\Desktop\DependencyListGenerator\obj\Release\DependencyListGenerator.exe

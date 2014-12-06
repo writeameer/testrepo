@@ -1,0 +1,14 @@
+C:\Users\ameer\Desktop\DependencyListGenerator\bin\Debug\DependencyListGenerator.exe.config
+C:\Users\ameer\Desktop\DependencyListGenerator\obj\Debug\DependencyListGenerator.csprojResolveAssemblyReference.cache
+C:\Users\ameer\Desktop\DependencyListGenerator\bin\Debug\DependencyListGenerator.exe
+C:\Users\ameer\Desktop\DependencyListGenerator\bin\Debug\DependencyListGenerator.pdb
+C:\Users\ameer\Desktop\DependencyListGenerator\bin\Debug\QuickGraph.Data.dll
+C:\Users\ameer\Desktop\DependencyListGenerator\bin\Debug\QuickGraph.dll
+C:\Users\ameer\Desktop\DependencyListGenerator\bin\Debug\QuickGraph.Graphviz.dll
+C:\Users\ameer\Desktop\DependencyListGenerator\bin\Debug\QuickGraph.Serialization.dll
+C:\Users\ameer\Desktop\DependencyListGenerator\bin\Debug\QuickGraph.xml
+C:\Users\ameer\Desktop\DependencyListGenerator\bin\Debug\QuickGraph.Data.xml
+C:\Users\ameer\Desktop\DependencyListGenerator\bin\Debug\QuickGraph.Graphviz.xml
+C:\Users\ameer\Desktop\DependencyListGenerator\bin\Debug\QuickGraph.Serialization.xml
+C:\Users\ameer\Desktop\DependencyListGenerator\obj\Debug\DependencyListGenerator.exe
+C:\Users\ameer\Desktop\DependencyListGenerator\obj\Debug\DependencyListGenerator.pdb
